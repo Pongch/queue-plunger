@@ -1,0 +1,16 @@
+{
+  "name": "queue-plunger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@omisego/omg-js-rootchain": "2.0.0-v0.2",
+    "@omisego/omg-js-util": "2.0.0-v0.2",
+    "web3": "1.0.0-beta.36"
+  }
+}
